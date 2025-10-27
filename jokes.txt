@@ -41,3 +41,6 @@ No eye-deer!
 
 What do you call a cow with no legs?
 Ground beef!
+
+Why do programmers prefer dark mode?
+Because light attracts bugs!
