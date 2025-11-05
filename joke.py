@@ -3,3 +3,6 @@
 
 # Why did the python developer not respond?
 # Because he was a-sleep!
+
+# Why was the programmer afraid of the C?
+# Because it was followed by a ++!
