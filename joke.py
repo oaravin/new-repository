@@ -3,3 +3,6 @@
 
 # Why did the python developer not respond?
 # Because he was a-sleep!
+
+# How many programmers does it take to change a light bulb?
+# None. It's a hardware problem.
