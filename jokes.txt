@@ -41,3 +41,9 @@ No eye-deer!
 
 What do you call a cow with no legs?
 Ground beef!
+
+Why do programmers prefer dark mode?
+Because light attracts bugs!
+
+Why was the JavaScript developer sad?
+Because he didn't Node how to Express himself!
